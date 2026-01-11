@@ -66,7 +66,7 @@ python seed.py
 7. Run the server
 flask run
 
-By default, the server runs at: http://127.0.0.1:5000
+
 
 API Endpoints
 Heroes
